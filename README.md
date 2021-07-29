@@ -1,5 +1,5 @@
 # Etch A Sketch
-A remake of the classic 'Etch a Sketch' in python using [*Python Turtle Graphics*](https://docs.python.org/3/library/turtle.html)
+A remake of the classic 'Etch a Sketch'✏️ in python using [*Python Turtle Graphics*](https://docs.python.org/3/library/turtle.html)
 
 ## Usage Guide
 Use these keys to draw 
